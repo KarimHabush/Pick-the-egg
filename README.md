@@ -22,3 +22,6 @@ A game developed using cocos2d js.
   
   
 </p>
+
+
+# That's all :) 
