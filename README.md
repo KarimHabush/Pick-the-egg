@@ -4,10 +4,10 @@ A game developed using cocos2d js.
 # How To Play 
 <p>
   <ul >
-    <li>Eggs are falling up to down.</ol>
-    <li>You have to catch the egg with same color displayed in the screen!</ol>
-    <li>The score is incrementing each 50milliseconds!</ol>
-    <li>You lose if you don't catch the egg before it falls, or if you catch the wrong egg!</ol>
+    <li>Eggs are falling up to down.</li>
+    <li>You have to catch the egg with same color displayed in the screen!</li>
+    <li>The score is incrementing each 50milliseconds!</li>
+    <li>You lose if you don't catch the egg before it falls, or if you catch the wrong egg!</li>
   </ol>
 </p>
 
